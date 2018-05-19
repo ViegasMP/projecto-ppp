@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1526728679 source:/Users/ViegasMP/PPP/projetoPPP/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1525880982 source:/Users/ViegasMP/PPP/projetoPPP/ficheiros.c
+
+1526310078 source:/Users/ViegasMP/PPP/projetoPPP/listas.c
+
